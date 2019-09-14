@@ -1,0 +1,4 @@
+
+preprocessMap();
+loadMap();
+loadTanks();
